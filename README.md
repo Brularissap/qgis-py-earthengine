@@ -37,7 +37,7 @@ Para que um script, presente neste repositório, rode em sua máquina, por favor
 https://code.earthengine.google.com/register
 ```
 
-Dentro do QGIS é necessário instalar o Plugin Google Earth Engine e voce faz isso na aba complementos.
+Dentro do QGIS é necessário instalar o Plugin Google Earth Engine e você pode fazer isso na aba complementos.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/120928832/222942858-d34d0b82-9156-4306-80a1-1ff3333d632b.jpg"/>
