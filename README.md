@@ -60,7 +60,7 @@ Dentro do QGIS é necessário instalar o Plugin Google Earth Engine e você pode
 
 
 <h2>Pratique</h2>
-Agora que concluiu as estapas acima, você já pode copiar ou baixar os códigos deste repositório.
+Agora que concluiu as estapas acima, você já pode copiar ou baixar os códigos deste repositório e aplicar dentro do terminal ppython do QGIS.
 
 
 
