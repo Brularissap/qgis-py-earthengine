@@ -4,6 +4,21 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
+<h2>Introdução</h2>
+
+Este arquivo python diz respeito a busca por imagens
+Sentinel 2 da coleção ee.ImageCollection("COPERNICUS/S2_SR"), presente no GEE.
+Essa busca ocorre dentro do QGIS, através do terminal python e utilizando o plugin Google Earth Engine.
+
+O que acontece?
+
+Os códigos deste arquivo irão consultar o Earth Engine em busca das imagens de acordo com o que esta sendo filtrado
+da coleção. Se encontrar alguma imagem ela será adicionada como uma camada no QGIS e poderá ser visualizada.
+Algumas condições foram impostas, uma delas é que se não houver imagem para a data solicitada e com percentual de
+cobertura de nuvem menor que 10% logo aparecerá no terminal a seguinte mensagem:
+NÃO TEM IMAGEM.
+Deste modo, basta voce alterar as datas ou o percentual de nuvem.
+Centralize, em um basemap, a sua área de interesse antes de rodar o arquivo no terminal.
 
 <h2>QGIS </h2>
 
