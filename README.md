@@ -38,7 +38,7 @@ Ctrl + Alt + P
 
 Você precisa ter conhecimento prévio da linguagem Python. 
 
-Experimente GRATUITAMENTE o curso Introdução à Ciência da Computação com Python Parte 1 que está disponívem em:
+Experimente GRATUITAMENTE o curso Introdução à Ciência da Computação com Python Parte 1 que está disponível em:
 
 ```
 https://pt.coursera.org/learn/ciencia-computacao-python-conceitos?
@@ -57,8 +57,7 @@ Dentro do QGIS é necessário instalar o Plugin Google Earth Engine e você pode
 <p align="center">
 <img src="https://user-images.githubusercontent.com/120928832/222942858-d34d0b82-9156-4306-80a1-1ff3333d632b.jpg"/>
 </p>
-
-
+Com o QGIS intalado em sua máquina, registro no GEE e plugin Google Earth Engine apto você já pode copiar ou baixar os códigos deste repositório.
 
 
 
