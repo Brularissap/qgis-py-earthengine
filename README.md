@@ -5,23 +5,7 @@
 </p>
 
 <h2>Introdução</h2>
-
-Este arquivo python diz respeito a busca por imagens
-Sentinel 2 da coleção ee.ImageCollection("COPERNICUS/S2_SR"), presente no GEE.
-Essa busca ocorre dentro do QGIS, através do terminal python e utilizando o plugin Google Earth Engine.
-
-O que acontece?
-
-Os códigos deste arquivo irão consultar o Earth Engine em busca das imagens de acordo com o que está sendo filtrado
-da coleção. Se encontrar alguma imagem ela será adicionada como uma camada no QGIS e poderá ser visualizada.
-Algumas condições foram impostas, uma delas é que se não houver imagem para a data solicitada e com percentual de
-cobertura de nuvem menor que 10% logo aparecerá no terminal a seguinte mensagem:
-NÃO TEM IMAGEM.
-Deste modo, basta você alterar as datas ou o percentual de nuvem.
-Centralize, em um basemap, a sua área de interesse antes de rodar o arquivo no terminal.
-
-![Giff_add_Sentinel_2 py](https://raw.githubusercontent.com/Brularissap/qgis-py-earthengine/main/Giff_add_Sentinel_2.py.gif) 
-
+Este repositório trata de exemplos de aplicações em python no QGIS com consulta ao Google Earth Engine.
 
 <h2>QGIS </h2>
 
@@ -75,10 +59,27 @@ Dentro do QGIS é necessário instalar o Plugin Google Earth Engine e você pode
 <img src="https://github.com/Brularissap/qgis-py-earthengine/blob/main/Plugin%20-%20GEE.gif?raw=true"/>
 </p>
 
+<h2>1. Exemplo: Consultar imagens Sentine-2 no QGIS</h2>
 
+O arquivo <a href="https://github.com/Brularissap/qgis-py-earthengine/blob/main/add_Sentinel_2.py.py">add_Sentinel_2.py.py</a> diz respeito a busca por imagens
+Sentinel 2 da coleção ee.ImageCollection("COPERNICUS/S2_SR"), presente no GEE.
+Essa busca ocorre dentro do QGIS, através do terminal python e utilizando o plugin Google Earth Engine.
 
-<h2>Pratique</h2>
-Agora que concluiu as estapas acima, você já pode copiar ou baixar os códigos deste repositório e aplicar dentro do terminal python do QGIS.
+O que acontece?
+
+Os códigos deste arquivo irão consultar o Earth Engine em busca das imagens de acordo com o que está sendo filtrado
+da coleção. 
+Se encontrar alguma imagem ela será adicionada como uma camada no QGIS e poderá ser visualizada.
+Algumas condições foram impostas, uma delas é que se não houver imagem para a data solicitada e com percentual de
+cobertura de nuvem menor que 10% logo aparecerá no terminal a seguinte mensagem:
+NÃO TEM IMAGEM.
+Deste modo, basta você alterar as datas ou o percentual de nuvem.
+Centralize, em um basemap, a sua área de interesse antes de rodar o arquivo no terminal.
+
+![Giff_add_Sentinel_2 py](https://raw.githubusercontent.com/Brularissap/qgis-py-earthengine/main/Giff_add_Sentinel_2.py.gif) 
+
+<h2>Pratique na sua máquina</h2>
+Agora que concluiu as estapas acima, você já pode copiar ou baixar os códigos deste repositório e aplicar dentro do terminal python do seu QGIS.
 
 
 
