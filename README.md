@@ -30,6 +30,9 @@ Centralize, em um basemap, a sua área de interesse antes de rodar o arquivo no 
 ```
 https://www.qgis.org/pt_BR/site/forusers/download.html
 ```
+<p align="center">
+<img src="https://github.com/Brularissap/qgis-py-earthengine/blob/main/download-qgis.gif?raw=true"/>
+</p>
 
 
 <h2>PYTHON</h2>
@@ -40,7 +43,7 @@ Ctrl + Alt + P
 ```
 
 <p align="center">
-<img src="https://github.com/Brularissap/qgis-py-earthengine/blob/main/download-qgis.gif?raw=true"/>
+<img src="https://github.com/Brularissap/qgis-py-earthengine/blob/main/Terminal-Python.gif?raw=true"/>
 </p>
 
 Você precisa ter conhecimento prévio da linguagem Python. 
