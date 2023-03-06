@@ -59,7 +59,7 @@ Dentro do QGIS é necessário instalar o Plugin Google Earth Engine e você pode
 <img src="https://github.com/Brularissap/qgis-py-earthengine/blob/main/Plugin%20-%20GEE.gif?raw=true"/>
 </p>
 
-<h2>1. Exemplo: Consultar imagens Sentine-2 no QGIS</h2>
+<h2>Exemplo: Consultar imagens Sentine-2 no QGIS</h2>
 
 O arquivo <a href="https://github.com/Brularissap/qgis-py-earthengine/blob/main/add_Sentinel_2.py.py">add_Sentinel_2.py.py</a> diz respeito a busca por imagens
 Sentinel 2 da coleção ee.ImageCollection("COPERNICUS/S2_SR"), presente no GEE.
