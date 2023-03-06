@@ -65,6 +65,10 @@ Para que um script, presente neste repositório, rode em sua máquina, por favor
 https://code.earthengine.google.com/register
 ```
 
+<p align="center">
+<img src="https://github.com/Brularissap/qgis-py-earthengine/blob/main/registre-se-gee.gif?raw=true"/>
+</p>
+
 Dentro do QGIS é necessário instalar o Plugin Google Earth Engine e você pode fazer isso na aba complementos.
 
 <p align="center">
