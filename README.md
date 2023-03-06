@@ -20,7 +20,7 @@ https://www.qgis.org/pt_BR/site/forusers/download.html
 
 
 <h2>PYTHON</h2>
-A linguagem Python será implementada no Terminal Python, dentro do QGIS, que pode ser acessado com as seguintes teclas de atalho:
+A linguagem Python será implementada no <b>Terminal Python</b>, dentro do QGIS, que pode ser acessado com as seguintes teclas de atalho:
 
 ```
 Ctrl + Alt + P
@@ -30,7 +30,7 @@ Ctrl + Alt + P
 <img src="https://github.com/Brularissap/qgis-py-earthengine/blob/main/Terminal-Python.gif?raw=true"/>
 </p>
 
-Você precisa ter conhecimento prévio da linguagem Python. 
+<b>OBS:</B> Você precisa ter conhecimento prévio da linguagem Python. 
 
 Experimente GRATUITAMENTE o curso Introdução à Ciência da Computação com Python Parte 1 que está disponível em:
 
@@ -65,24 +65,17 @@ O arquivo <a href="https://github.com/Brularissap/qgis-py-earthengine/blob/main/
 Sentinel 2 da coleção ee.ImageCollection("COPERNICUS/S2_SR"), presente no GEE.
 Essa busca ocorre dentro do QGIS, através do terminal python e utilizando o plugin Google Earth Engine.
 
-O que acontece?
+<b>O que acontece?</b>
 
 Os códigos deste arquivo irão consultar o Earth Engine em busca das imagens de acordo com o que está sendo filtrado
 da coleção. 
-Se encontrar alguma imagem ela será adicionada como uma camada no QGIS e poderá ser visualizada.
-Algumas condições foram impostas, uma delas é que se não houver imagem para a data solicitada e com percentual de
-cobertura de nuvem menor que 10% logo aparecerá no terminal a seguinte mensagem:
-NÃO TEM IMAGEM.
-Deste modo, basta você alterar as datas ou o percentual de nuvem.
-Centralize, em um basemap, a sua área de interesse antes de rodar o arquivo no terminal.
+Se encontrar alguma imagem ela será adicionada como uma camada no QGIS e poderá ser visualizada. 
+Um dos filtros aplicados para esta ImageCollection refere-se ao percentual de nuvem menor que 10%, com isto, após rodar o arquivo, é posível visualizar no console a data da imagem encontrada e o seu percentual de nuvem. <b>Centralize, em um basemap, a sua área de interesse antes de rodar o arquivo no terminal.</b>
 
 ![Giff_add_Sentinel_2 py](https://raw.githubusercontent.com/Brularissap/qgis-py-earthengine/main/Giff_add_Sentinel_2.py.gif) 
 
 <h2>Pratique na sua máquina</h2>
 Agora que concluiu as estapas acima, você já pode copiar ou baixar os códigos deste repositório e aplicar dentro do terminal python do seu QGIS.
-
-
-
 
 
 
