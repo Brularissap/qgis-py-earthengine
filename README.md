@@ -39,6 +39,10 @@ A linguagem Python será implementada no Terminal Python, dentro do QGIS, que po
 Ctrl + Alt + P
 ```
 
+<p align="center">
+<img src="https://github.com/Brularissap/qgis-py-earthengine/blob/main/download-qgis.gif?raw=true"/>
+</p>
+
 Você precisa ter conhecimento prévio da linguagem Python. 
 
 Experimente GRATUITAMENTE o curso Introdução à Ciência da Computação com Python Parte 1 que está disponível em:
@@ -58,8 +62,9 @@ https://code.earthengine.google.com/register
 Dentro do QGIS é necessário instalar o Plugin Google Earth Engine e você pode fazer isso na aba complementos.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/120928832/222942858-d34d0b82-9156-4306-80a1-1ff3333d632b.jpg"/>
+<img src="https://github.com/Brularissap/qgis-py-earthengine/blob/main/Plugin%20-%20GEE.gif?raw=true"/>
 </p>
+
 
 
 <h2>Pratique</h2>
