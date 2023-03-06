@@ -20,6 +20,9 @@ NÃO TEM IMAGEM.
 Deste modo, basta você alterar as datas ou o percentual de nuvem.
 Centralize, em um basemap, a sua área de interesse antes de rodar o arquivo no terminal.
 
+![Giff_add_Sentinel_2 py](https://raw.githubusercontent.com/Brularissap/qgis-py-earthengine/main/Giff_add_Sentinel_2.py.gif) 
+
+
 <h2>QGIS </h2>
 
 É necessário <a href="https://www.qgis.org/pt_BR/site/forusers/download.html">instalar</a> o software <a href="https://www.qgis.org/pt_BR/site/forusers/download.html">QGIS</a> em sua máquina.
