@@ -32,7 +32,7 @@ Ctrl + Alt + P
 
 <b>OBS:</B> Você precisa ter conhecimento prévio da linguagem Python. 
 
-Experimente GRATUITAMENTE o curso Introdução à Ciência da Computação com Python Parte 1 que está disponível em:
+Experimente <b>GRATUITAMENTE</b> o curso <a href="https://pt.coursera.org/learn/ciencia-computacao-python-conceitos?">Introdução à Ciência da Computação com Python Parte 1</a> que está disponível em:
 
 ```
 https://pt.coursera.org/learn/ciencia-computacao-python-conceitos?
