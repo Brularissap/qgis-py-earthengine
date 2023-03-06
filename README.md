@@ -53,7 +53,7 @@ https://code.earthengine.google.com/register
 <img src="https://github.com/Brularissap/qgis-py-earthengine/blob/main/registre-se-gee.gif?raw=true"/>
 </p>
 
-Dentro do QGIS é necessário instalar o Plugin Google Earth Engine e você pode fazer isso na aba complementos.
+Dentro do QGIS é necessário instalar o Plugin Google Earth Engine e você pode fazer isso na aba Complementos/Gerenciar e Instalar Complementos.
 
 <p align="center">
 <img src="https://github.com/Brularissap/qgis-py-earthengine/blob/main/Plugin%20-%20GEE.gif?raw=true"/>
