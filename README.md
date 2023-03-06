@@ -54,6 +54,9 @@ Experimente GRATUITAMENTE o curso Introdução à Ciência da Computação com P
 https://pt.coursera.org/learn/ciencia-computacao-python-conceitos?
 ```
 
+![coursera curso](https://github.com/Brularissap/qgis-py-earthengine/blob/main/coursera_usp_python.jpg?raw=true)
+
+
 <h2> GEE</h2>
 
 Para que um script, presente neste repositório, rode em sua máquina, por favor registre-se em:
