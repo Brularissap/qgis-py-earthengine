@@ -43,7 +43,7 @@ https://pt.coursera.org/learn/ciencia-computacao-python-conceitos?
 
 <h2> GEE</h2>
 
-Para que um script, presente neste repositório, rode em sua máquina, por favor registre-se em:
+Para que um script presente neste repositório, rode em sua máquina, por favor registre-se em:
 
 ```
 https://code.earthengine.google.com/register
